@@ -313,3 +313,7 @@ void exibirAmigos()
     }
 }
 
+void ola()
+{
+    printf("\n");
+}
